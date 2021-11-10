@@ -8,10 +8,10 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-body {
+/* body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
-}
+} */
 
 a {
   color: #ffb727;
@@ -266,7 +266,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top right;
+  background: url("../img/IMG_9851.jpeg") top right;
   background-size: cover;
   position: relative;
 }
@@ -292,18 +292,12 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 15px;
 }
 #hero h1 {
-  margin: 0 0 10px 0;
-  font-size: 64px;
-  font-family: "Satisfy", serif;
+ 
   color: #fff;
 }
 #hero h2 {
   color: #eee;
-  margin-bottom: 50px;
-  font-size: 13px;
-  font-weight: 500;
-  letter-spacing: 1px;
-  text-transform: uppercase;
+
 }
 #hero .btn-scroll {
   transition: 0.4s;
